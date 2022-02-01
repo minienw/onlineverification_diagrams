@@ -1,0 +1,4 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /status/{subject}"
+    id="id-ad3ef7c929a441a6ad0a3c32983976d5"/>

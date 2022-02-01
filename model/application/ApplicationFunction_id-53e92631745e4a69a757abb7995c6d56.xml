@@ -1,0 +1,4 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET /identity/{element}/{type}"
+    id="id-53e92631745e4a69a757abb7995c6d56"/>
